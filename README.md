@@ -11,7 +11,7 @@
 **Advanced Android Surveillance Framework**
 
 ![Version](https://github.com/user-attachments/assets/2d94fe78-16a3-4ab2-8fc3-a49487584bab)
-![Android](https://github.com/user-attachments/assets/8da847c3-06b5-49c5-bfcc-e707700c24da)
+![Android](https://img.shields.io/badge/Android-8.0+-00FF00?style=flat-square)
 
 </div>
 
